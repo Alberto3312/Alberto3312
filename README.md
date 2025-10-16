@@ -1,7 +1,10 @@
-## Hi there 👋
+## Hola Mundo 👋
 
-Actualmente trabajando para GRUMA como Desarollador BI, (copiar y pegar lo que tengo en Descricpion)
+🔭 Actualmente trabajando para GRUMA como Desarollador BI.
+Trabajo con el proceso de los datos con herramientas como SQL, SSIS, SSAS y Tablas dinamicas en Excel conectadas a cubos tabulares.
+🌱 Tengo estudios en herramientas de Data Analysis como Python, Tableau, Power BI, librerias como Numpy, Matplotlib.
 
+📫 Donde encontrarme:
 - [Linkedin](https://www.linkedin.com/in/jes%C3%BAs-alberto-reyes-hern%C3%A1ndez-055573262/) 
 
 <!--
