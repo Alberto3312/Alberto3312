@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Actualmente trabajando para GRUMA como Desarollador BI, (copiar y pegar lo que tengo en Descricpion)
+
+- [Linkedin](https://www.linkedin.com/in/jes%C3%BAs-alberto-reyes-hern%C3%A1ndez-055573262/) 
+
 <!--
 **Alberto3312/Alberto3312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
