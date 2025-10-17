@@ -16,7 +16,7 @@ Trabajo con el proceso de los datos con herramientas como SQL, SSIS, SSAS y Tabl
 - ![Static Badge](https://img.shields.io/badge/Python-8A2BE6)
 - ![Static Badge](https://img.shields.io/badge/Power%20BI-8A2BE7)
 
-🔭SKILLS
+🔭SOFT SKILLS
 - ![Static Badge](https://img.shields.io/badge/Adaptabilidad-8A2BE2)
 - ![Static Badge](https://img.shields.io/badge/Trabajo%20en%20equipo-8A2BE3)
 - ![Static Badge](https://img.shields.io/badge/Resiliencia-8A2BE4)
