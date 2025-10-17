@@ -6,7 +6,6 @@ Trabajo con el proceso de los datos con herramientas como SQL, SSIS, SSAS y Tabl
 🌱 Tengo estudios en herramientas de Data Analysis como Python, Tableau, Power BI, librerias como Numpy, Matplotlib. De las cuales ya conseguí certificados. Ademas de haberme graduado con Tesis trabajando con el ALgoritmo de Machine Learning Prophet para la predicción de datos en torno al tiempo.
 
 📫 Donde encontrarme:
-- [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-alberto-reyes-hern%C3%A1ndez-055573262/)
 - [LinkedIn](https://www.linkedin.com/in/albertoreyes3312/)
 
 ⚡SKILLS
