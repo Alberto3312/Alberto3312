@@ -7,6 +7,7 @@ Trabajo con el proceso de los datos con herramientas como SQL, SSIS, SSAS y Tabl
 
 📫 Donde encontrarme:
 - [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-alberto-reyes-hern%C3%A1ndez-055573262/)
+- [LinkedIn](https://www.linkedin.com/in/albertoreyes3312/)
 
 ⚡SKILLS
 - ![Static Badge](https://img.shields.io/badge/SQL-8A2BE2)
